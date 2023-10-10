@@ -1,13 +1,3 @@
-<div align="center">
-
-# Hello World !
-</div>
-
-<div align="right">
-  
-![](https://komarev.com/ghpvc/?username=your-github-jarmas97&style=flat-square)
-
-</div>
 
 ## About me
 Open-minded person with a strong passion for programming, problem solving and improving the world.
