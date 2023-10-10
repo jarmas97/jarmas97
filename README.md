@@ -5,7 +5,7 @@
 
 <div align="right">
   
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=jarmas97&style=flat-square)
 
 </div>
 
