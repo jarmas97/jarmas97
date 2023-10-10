@@ -9,11 +9,11 @@
 </div>
 
 ## About me
-I am a dedicated, open-minded, and friendly individual with a strong passion for programming.
+Open-minded person with a strong passion for programming, problem solving and improving the world.
 
-- 🌱 Interested in programming since 2018 when I completed a Java programming course at Software Development Academy.
-
-- 🔭 I’m currently looking for a job as a java developer
+- 🌱 Completed a Java programming course organised by Software Development Academy 2018/2019.
+- Developing programming skills in free time.
+- 🔭 Interested in a job as a java developer
 
 
 <!--
